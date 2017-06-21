@@ -1,7 +1,3 @@
-## [Buy Us Coffee](http://vilvas.com/coffee/)
-
-![Vilvas Override Product](http://vilvas.com/wp-content/uploads/2015/01/Override_inline_preview.jpg)
-
 # Override
 Thank you for taking interest in our Plugin Override, we are presenting a unique flat design interface for the WordPress admin login page. You can customize with no limit. If you have an questions feel free to ask.
 
